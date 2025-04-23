@@ -4220,3 +4220,15 @@ TUMOR_PURITY_sclc_mskimpact_2017_datatype
 TUMOR_PURITY_sclc_mskimpact_2017_priority									
 TUMOR_SIZE_bfn_duke_nus_2015									
 TUMOR_SIZE_bfn_duke_nus_2015_datatype									
+SAMPLE_TYPE_DETAILED									
+YEAR_CONTACT									
+YEAR_DEATH									
+INT_CONTACT									
+INT_DOD									
+DEAD									
+PRIMARY_RACE_DETAILED									
+SECONDARY_RACE_DETAILED									
+TERTIARY_RACE_DETAILED									
+SEX_DETAILED									
+ETHNICITY_DETAILED									
+AGE_AT_SEQ_REPORT_DAYS									
